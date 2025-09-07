@@ -1,0 +1,29 @@
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Распространенные виртуальные окружения
+venv/
+env/
+.venv/
+
+# Файлы настроек и сред
+.env
+.venv
+.env.local
+.env.production
+
+# Пакеты и дистрибутивы
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
